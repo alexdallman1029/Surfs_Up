@@ -9,8 +9,10 @@ A client is looking to open a surf and ice cream shop in Oahu, Hawaii, and would
 * The minimum temperature in June is 64 degrees Fahrenheit. The minimum temperature in December is 56 degrees Fahrenheit.
 * The maximum temperature in June is 85 degrees Fahrenheit. The maximum temperature in December is 83 degrees Fahrenheit.
 
-![Figure 1]()
-![Figure 2]()
+<b>Summary Data of June Temperatures in Oahu</b><br>
+![](https://github.com/alexdallman1029/Surfs_Up/blob/main/June-summary.png)
+<br><b>Summary Data of December Temperatures in Oahu</b><br>
+![](https://github.com/alexdallman1029/Surfs_Up/blob/main/Dec-summary.png)
 
 ## Summary
 
